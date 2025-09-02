@@ -1,17 +1,11 @@
 ---
+last-updated:
 tags:
-  - "#project"
 type: project
 base-version: 1
 notion-link:
+status:
 ---
 
-# =============
-
-- 
-
-# Dependencies
-
-- 
 
 # End
