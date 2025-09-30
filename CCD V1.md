@@ -1,7 +1,7 @@
 ---
 last-updated:
 tags:
-type:
+type: spec
 base-version: 1
 ---
 
